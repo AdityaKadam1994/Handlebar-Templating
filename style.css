@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+.wrapper body {
+    display: flex !important;
+    justify-content: space-between;
+    flex-direction: column;
+    text-align: center;
+}
+
+.wrapper body .entry {
+    margin: 10px 0;
+}
